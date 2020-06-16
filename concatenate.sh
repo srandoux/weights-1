@@ -1,0 +1,1 @@
+cat yolact_plus_resnet50_54_800000_part1.pth yolact_plus_resnet50_54_800000_part2.pth yolact_plus_resnet50_54_800000_part3.pth yolact_plus_resnet50_54_800000_part4.pth yolact_plus_resnet50_54_800000_part5.pth  yolact_plus_resnet50_54_800000_part6.pth> yolact_plus_resnet50_54_800000.pth 
