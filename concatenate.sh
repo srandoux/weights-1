@@ -1,3 +1,0 @@
-cat yolact++/yolact_plus_resnet50_54_800000_part1.pth yolact++/yolact_plus_resnet50_54_800000_part2.pth yolact++/yolact_plus_resnet50_54_800000_part3.pth yolact++/yolact_plus_resnet50_54_800000_part4.pth yolact++/yolact_plus_resnet50_54_800000_part5.pth yolact++/yolact_plus_resnet50_54_800000_part6.pth> yolact_plus_resnet50_54_800000.pth 
-
-cat cropped/cropped_resnet50_aa cropped/cropped_resnet50_ab cropped/cropped_resnet50_ac  cropped/cropped_resnet50_ad cropped/cropped_resnet50_ae cropped/cropped_resnet50_af cropped/cropped_resnet50_ag cropped/cropped_resnet50_ah cropped/cropped_resnet50_ai cropped/cropped_resnet50_aj cropped/cropped_resnet50_ak cropped/cropped_resnet50_al cropped/cropped_resnet50_am >cropped_resnet50.pth
