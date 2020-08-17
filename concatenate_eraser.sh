@@ -1,4 +1,0 @@
-cat gmcnn/gmcnn_mult4_aa gmcnn/gmcnn_mult4_ab gmcnn/gmcnn_mult4_ac >gmcnn_mult4.onnx
-
-cat eraser/eraser_mask_unet_rest34_aa eraser/eraser_mask_unet_rest34_ab eraser/eraser_mask_unet_rest34_ac eraser/eraser_mask_unet_rest34_ad eraser/eraser_mask_unet_rest34_ae eraser/eraser_mask_unet_rest34_af eraser/eraser_mask_unet_rest34_ag > eraser_mask_unet_rest34.pts
-
